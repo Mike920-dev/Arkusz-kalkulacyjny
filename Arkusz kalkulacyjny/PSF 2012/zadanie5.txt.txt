@@ -1,0 +1,15 @@
+a) Firma A: 221 zł
+Firma B: 117 zł
+Firma C: 198 zł
+b) Firma A:
+Najwyższa: 264 zł
+Najniższa: 167 zł
+Firma B:
+Najwyższa: 210 zł
+Najniższa: 62 zł
+Firma C:
+Najwyższa: 223 zł
+Najniższa: 97 zł
+d) Liczba krachów: 6
+Ceny akcji w momencie ostatniego krachu: Firma A: 224 zł; Firma B: 163 zł; Firma C: 194 zł
+e) Rekord zmieniał się 14 razy.

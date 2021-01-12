@@ -1,0 +1,25 @@
+a)
+Liczba osób urodzonych w grudniu:	20
+
+b)
+Liczba kobiet w biurze obliczeniowym:	74
+
+c)
+Rok, w którym urodziło się najwięcej osób:	89
+Liczba osób urodzonych w tym roku:	29
+
+d)Te numery PESEL:
+54043010088
+60061144469
+77072919805
+77120835871
+83041812338
+89081421445
+91032272651
+92022716243
+
+e)Lata 50:	22
+Lata 60:	28
+Lata 70:	36
+Lata 80:	58
+Lata 90:	6

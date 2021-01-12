@@ -1,0 +1,32 @@
+a)
+Dama: 317
+Granta: 300
+Dorkas: 322
+Lodera: 398
+
+b)
+Marka: Lodera
+Liczba: 305
+Kwartał: 2
+Rok: 2014
+
+c)
+Dama: 18 kwartałów
+Granta: 9 kwartałów
+Dorkas: 17 kwartałów
+Lodera: 32 kwartały
+
+d)
+Liczba samochodów: 29368
+
+e)
+Rok:	Dama	Granta	Dorkas	Lodera
+2005	972	822	864	1284
+2006	1042	905	963	1380
+2007	1122	1000	1075	1486
+2008	1203	1102	1201	1599
+2009	1296	1217	1343	1724
+2010	1332	1264	1400	1772
+2011	1292	1224	1330	1658
+2012	1228	1160	1224	1492
+(wykres w arkuszu jest)

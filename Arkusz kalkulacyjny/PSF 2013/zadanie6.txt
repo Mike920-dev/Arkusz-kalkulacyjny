@@ -1,0 +1,53 @@
+a)średnia cena dla funduszy:
+A-36,54 
+B-37,14
+C-38,30
+D-39,00
+E-39,28
+F-39,56
+G-33,40
+H-33,44
+I-33,49
+J-38,34
+K-38,42
+L-38,49
+b)Liczba dni, w których ceny jednostek wszystkich funduszy były wyższe niż 33 zł to: 158 .
+c)Cena, która w całym roku wystąpiła najczęściej to: 42,98 .
+Wystąpiła ona 8 razy.
+d)Fundusze:
+A:
+Najniższa cena - 20,82
+Najwyższa cena - 50,9
+B:
+Najniższa cena - 21,21
+Najwyższa cena - 51,62
+C:
+Najniższa cena - 21,92
+Najwyższa cena - 53,12 
+D:
+Najniższa cena - 18,76
+Najwyższa cena - 58,66
+E:
+Najniższa cena - 18,94
+Najwyższa cena - 58,96
+F:
+Najniższa cena - 19,12
+Najwyższa cena - 59,26
+G:
+Najniższa cena - 16,04
+Najwyższa cena - 48,15
+H:
+Najniższa cena - 16,08
+Najwyższa cena - 48,15
+I:
+Najniższa cena - 16,12
+Najwyższa cena - 48,19
+J:
+Najniższa cena - 20,33
+Najwyższa cena - 50,23
+K:
+Najniższa cena - 20,41
+Najwyższa cena - 50,23
+L:
+Najniższa cena - 20,05
+Najwyższa cena - 50,23

@@ -1,0 +1,7 @@
+a) Wartość kosztu zakupu x sztuk towaru jest niższy u producenta A w przedziałach <10,440> i <510,600>.
+
+b) Przy 450 sztukach towaru nie ma znaczenia, u którego producenta hurtownia zrobi zakupy.
+
+c) Największą liczbą sztuk, dla której koszt zakupu u producenta A jest mniejszy niż koszt zakupu 500 sztuk u producenta B, jest 550.
+
+d) Największą liczbą sztuk, dla której koszt zakupu u producenta B jest  mniejszy niż koszt zakupu 600 sztuk u producenta A, jest 690.

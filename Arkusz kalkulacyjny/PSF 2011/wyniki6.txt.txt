@@ -1,0 +1,10 @@
+a) Te pytania to: 2, 9, 12, 18, 19, 20, 22
+b) Liczba uczniów: 55
+c) Liczba uczniów, którzy otrzymali ocenę bdb: 1
+Liczba uczniów, którzy otrzymali ocenę ndst: 6
+d) Na pytania 5, 15, 25 odpowiedzieli poprawnie uczniowie o numerach: 2, 45, 65, 70, 79
+e) prehistoria: 278
+starożytność: 263
+średniowiecze: 281
+historia nowożytna: 320
+historia najnowsza: 298

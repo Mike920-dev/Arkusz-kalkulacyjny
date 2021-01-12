@@ -1,0 +1,21 @@
+=JEŻELI(F7=1;JEŻELI(F6=0;"Nieprawidłowa liczba";JEŻELI(F8=0;"Nieprawidłowa liczba";JEŻELI(LICZ.JEŻELI(B7:B322;1)>1;"Złożona";"Pierwsza")));"")
+=JEŻELI(F7=1;JEŻELI(F6=0;"Nieprawidłowa liczba";JEŻELI(F8=0;"Nieprawidłowa liczba";JEŻELI(LICZ.JEŻELI(B7:B322;1)>1;"Złożona";"Pierwsza")));"")
+/////////////////
+JEŻELI(F7=1;JEŻELI(LUB(F8=0;F6=0);"Nieprawidłowa liczba";JEŻELI(LICZ.JEŻELI(B7:B322;1)>1;"Złożona";"Pierwsza"));"tekst")
+///////////
+1:
+JEŻELI(F7=1;JEŻELI(F6=0;"Nieprawidłowa liczba";JEŻELI(F8=0;"Nieprawidłowa liczba";JEŻELI(LICZ.JEŻELI(B7:B322;1)>1;"Złożona";"Pierwsza")));"")
+2:
+JEŻELI(F7=1;JEŻELI(LUB(F8=0;F6=0);"Nieprawidłowa liczba";JEŻELI(LICZ.JEŻELI(B7:B322;1)>1;"Złożona";"Pierwsza"));"tekst")
+
+//////////////////////////
+czy jest liczba:
+=JEŻELI(CZY.LICZBA(B3);1;0)
+czy miesci sie w zakresie:
+=JEŻELI(F6=1;JEŻELI(I(B3>1;B3<=100000);1;0);0)
+czy jest calkowita:
+=JEŻELI(F6=1;JEŻELI(CZ.CAŁK.DZIELENIA($B$3;1)=$B$3;1;0);0)
+sprawdzanie czy ma reszte z dzielenia 0:
+=JEŻELI(MOD($B$3;A7)=0;1;0)
+finalne:
+=JEŻELI(F6=1;JEŻELI(LUB(F8=0;F7=0);"Nieprawidłowa liczba";JEŻELI(LICZ.JEŻELI(B7:B322;1)>1;"Liczba złożona";"Liczba pierwsza"));"")

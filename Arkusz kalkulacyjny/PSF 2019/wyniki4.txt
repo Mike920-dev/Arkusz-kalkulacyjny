@@ -1,0 +1,28 @@
+a)
+Ilość SMS-ów:	103
+
+b)
+Ilość SMS-ów:	298
+
+c)
+nr_pytania	Liczba wysłanych odpowiedzi
+1			167
+2			172
+3			153
+4			173
+5			155
+6			160
+
+
+d)	
+nr_pytania	łatwość
+1		0,234
+2		0,308
+3		0,255
+4		0,312
+5		0,432
+6		0,288
+
+
+e)
+Numer telefonu:	735284701

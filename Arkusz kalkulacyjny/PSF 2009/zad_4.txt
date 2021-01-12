@@ -1,0 +1,58 @@
+a) Najniższa średnia roczna temperatura: 4,74
+Rok wystąpienia: 1829
+
+b)Najwyższa średnia roczna temperatura: 9,82
+Rok wystąpienia: 1989
+
+c)
+styczeń:
+minimalna:-13,5
+maksymalna: 3,5
+
+luty:
+minimalna: -13,7
+maksymalna: 5,1
+
+marzec:
+minimalna: -6,9
+maksymalna: 7,4
+
+kwiecień:
+minimalna: 2,4
+maksymalna: 13,2
+
+maj:
+minimalna: 7,9
+maksymalna: 18,2
+
+czerwiec:
+minimalna: 13
+maksymalna: 22,4
+
+lipiec:
+minimalna: 14,6
+maksymalna: 23,5
+
+sierpień:
+minimalna: 14
+maksymalna: 23,8
+
+wrzesień:
+minimalna: 9,1
+maksymalna: 16,8
+
+październik:
+minimalna: 1,8
+maksymalna: 12,6
+
+listopad:
+minimalna: -3,4
+maksymalna: 7,6
+
+grudzień:
+minimalna: -14,8
+maksymalna: 3,9
+
+d) Długość najdłuższego malejącego ciągu: 6
+Rok początkowy: 1982
+Rok końcowy: 1987

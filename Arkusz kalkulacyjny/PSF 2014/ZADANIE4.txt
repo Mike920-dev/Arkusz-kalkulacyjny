@@ -1,0 +1,21 @@
+a)
+powierzchnia największej działki: 1500
+rodzaj największej działki: X
+
+powierzchnia najmniejszej działki: 500,18
+rodzaj najmniejszej działki: S
+
+b)
+Rodzaj działki:                 liczba działek tego rodzaju:           średnia powierzchnia działek tego rodzaju:
+   R                                       708                                       989,98
+   B					   1775                                        999,59
+   S                                        964                                        986,12
+   L				           559                                          1016,75
+   X	                                    994                                         989,94
+
+c)      wielkość podatku:                        liczba działek:
+	do 100 zł włącznie                            2096 
+
+	ponad 100 zł, ale do 500 zł włącznie          2133
+
+	ponad 500 zł                                  771

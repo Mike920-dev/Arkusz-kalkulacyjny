@@ -1,0 +1,27 @@
+a)
+miesiąc	         Liczba kilogramów
+
+styczeń			5343
+luty			4966
+marzec			4895
+kwiecień		3446
+maj			3222
+czerwiec		2984
+lipiec			3262
+sierpień		4128
+wrzesień		4826
+październik		4558
+listopad		5502
+grudzień		3771
+
+b)
+imię:	Kamila
+nazwisko:	Wolan
+Ilość makulatury:	201
+
+c)
+Ilość wtorków:	51
+
+d)
+Data pierwszego wywozu:	2017-01-31
+Ilość wywozów:	18
